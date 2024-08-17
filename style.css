@@ -1,0 +1,49 @@
+.background{
+    background-Image:url("background.png");
+    background-size: 105%;
+    overflow: hidden;
+    
+
+} 
+
+.score{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: rgb(245, 5, 5);
+    font-weight: bold;
+    position: absolute;
+    height: initial;
+
+}
+
+.boy{
+    height: 250px;
+    width: 250px;
+    margin-top: 410px;
+    position: absolute;
+
+
+}
+
+.flame{
+   
+    width: 130px;
+    height: 130px;
+        margin-top: 540px;
+    position: absolute; 
+
+}
+
+.id{
+    color: rgb(13, 13, 13);
+    position: absolute;
+    margin-top: 660px;
+    margin-left: 1300px;
+}
+
+
+
+
+
+    
