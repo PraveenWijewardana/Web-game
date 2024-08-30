@@ -33,6 +33,7 @@ var runWorker = 0;
 var runSound = new Audio("run.mp3");
 runSound.loop = true;
 
+
 function run() {
 
     runWorker = setInterval(() => {
