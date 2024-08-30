@@ -1,14 +1,3 @@
-43ty35qy35y53y53q
-tfyjutyytythythyhtthyg
-yuhbyhhbhbhbhbhb
-hyugtujyuju
-trhtrhgrghthygr
-rthrtrtrtyhr
-rthyhygyhgryhr
-yytyhghyhy
-ytjytytjjy
-ythyhtgytyth
-
 function Controller(event) {
     if (event.key == "Enter") {
         if (runWorker == 0) {
