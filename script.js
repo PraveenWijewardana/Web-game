@@ -1,3 +1,7 @@
+function start(){
+    alert("Press Enter to start !");
+}
+
 function Controller(event) {
     if (event.key == "Enter") {
         if (runWorker == 0) {
@@ -162,3 +166,4 @@ function flameCreatAndMove(x) {
 
     }, 50);
 }
+
